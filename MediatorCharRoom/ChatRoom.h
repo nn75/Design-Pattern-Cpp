@@ -10,6 +10,8 @@
 #include <algorithm>
 #include "Person.h"
 
+//class Person;
+
 class ChatRoom {
 public:
     std::vector<Person*> people;

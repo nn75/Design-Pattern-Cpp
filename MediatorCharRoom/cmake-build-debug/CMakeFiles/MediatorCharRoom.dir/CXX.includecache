@@ -6,39 +6,39 @@
 
 #IncludeRegexTransform: 
 
-/Users/nanni/Documents/DesignPattern/MediatorCharRoom/ChatRoom.cpp
+/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/ChatRoom.cpp
 Person.h
-/Users/nanni/Documents/DesignPattern/MediatorCharRoom/Person.h
+/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/Person.h
 ChatRoom.h
-/Users/nanni/Documents/DesignPattern/MediatorCharRoom/ChatRoom.h
+/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/ChatRoom.h
 
-/Users/nanni/Documents/DesignPattern/MediatorCharRoom/ChatRoom.h
+/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/ChatRoom.h
 vector
 -
 algorithm
 -
 Person.h
-/Users/nanni/Documents/DesignPattern/MediatorCharRoom/Person.h
+/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/Person.h
 
-/Users/nanni/Documents/DesignPattern/MediatorCharRoom/Person.cpp
+/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/Person.cpp
 Person.h
-/Users/nanni/Documents/DesignPattern/MediatorCharRoom/Person.h
+/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/Person.h
 iostream
 -
 
-/Users/nanni/Documents/DesignPattern/MediatorCharRoom/Person.h
+/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/Person.h
 string
 -
 vector
 -
 ChatRoom.h
-/Users/nanni/Documents/DesignPattern/MediatorCharRoom/ChatRoom.h
+/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/ChatRoom.h
 
-/Users/nanni/Documents/DesignPattern/MediatorCharRoom/main.cpp
+/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/main.cpp
 iostream
 -
 ChatRoom.h
-/Users/nanni/Documents/DesignPattern/MediatorCharRoom/ChatRoom.h
+/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/ChatRoom.h
 Person.h
-/Users/nanni/Documents/DesignPattern/MediatorCharRoom/Person.h
+/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/Person.h
 

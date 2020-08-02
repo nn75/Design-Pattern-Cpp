@@ -11,7 +11,24 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d5906ed-ebb2-4305-963e-a92ce8e2fd05" name="Default Changelist" comment="" />
+    <list default="true" id="7d5906ed-ebb2-4305-963e-a92ce8e2fd05" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ChatRoom.h" beforeDir="false" afterPath="$PROJECT_DIR$/ChatRoom.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Person.h" beforeDir="false" afterPath="$PROJECT_DIR$/Person.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MediatorCharRoom.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MediatorCharRoom.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MediatorCharRoom.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MediatorCharRoom.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MediatorCharRoom.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MediatorCharRoom.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MediatorCharRoom.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MediatorCharRoom.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/MediatorCharRoom.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/MediatorCharRoom.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +52,11 @@
     <select />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1f3BVr4eeOtzORdshtbi1epXfLZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -44,6 +65,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="MediatorCharRoom" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MediatorCharRoom" TARGET_NAME="MediatorCharRoom" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MediatorCharRoom" RUN_TARGET_NAME="MediatorCharRoom">
@@ -64,6 +86,7 @@
       <updated>1595436922262</updated>
       <workItem from="1595436923438" duration="2732000" />
       <workItem from="1595439688237" duration="807000" />
+      <workItem from="1596383760660" duration="101000" />
     </task>
     <servers />
   </component>
@@ -75,9 +98,9 @@
       <screen x="0" y="23" width="1792" height="1013" />
     </state>
     <state x="649" y="254" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1013@0.23.1792.1013" timestamp="1595437605270" />
-    <state x="550" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1595439688921">
+    <state x="550" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1596383761623">
       <screen x="0" y="23" width="1792" height="1013" />
     </state>
-    <state x="550" y="364" key="com.intellij.ide.util.TipDialog/0.23.1792.1013@0.23.1792.1013" timestamp="1595439688921" />
+    <state x="550" y="364" key="com.intellij.ide.util.TipDialog/0.23.1792.1013@0.23.1792.1013" timestamp="1596383761623" />
   </component>
 </project>

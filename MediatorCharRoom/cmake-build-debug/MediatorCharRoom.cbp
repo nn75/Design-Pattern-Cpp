@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug"/>
+				<Option working_dir="/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug"/>
+				<Option working_dir="/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug"/>
+				<Option working_dir="/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="MediatorCharRoom">
-				<Option output="/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/MediatorCharRoom" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug"/>
+				<Option output="/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/MediatorCharRoom" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 MediatorCharRoom"/>
-					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 MediatorCharRoom"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="MediatorCharRoom/fast">
-				<Option output="/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/MediatorCharRoom" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug"/>
+				<Option output="/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/MediatorCharRoom" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,29 +73,29 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 MediatorCharRoom/fast"/>
-					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 MediatorCharRoom/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/nanni/Documents/DesignPattern/MediatorCharRoom/ChatRoom.cpp">
+		<Unit filename="/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/ChatRoom.cpp">
 			<Option target="MediatorCharRoom"/>
 		</Unit>
-		<Unit filename="/Users/nanni/Documents/DesignPattern/MediatorCharRoom/ChatRoom.h">
+		<Unit filename="/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/ChatRoom.h">
 			<Option target="MediatorCharRoom"/>
 		</Unit>
-		<Unit filename="/Users/nanni/Documents/DesignPattern/MediatorCharRoom/Person.cpp">
+		<Unit filename="/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/Person.cpp">
 			<Option target="MediatorCharRoom"/>
 		</Unit>
-		<Unit filename="/Users/nanni/Documents/DesignPattern/MediatorCharRoom/Person.h">
+		<Unit filename="/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/Person.h">
 			<Option target="MediatorCharRoom"/>
 		</Unit>
-		<Unit filename="/Users/nanni/Documents/DesignPattern/MediatorCharRoom/main.cpp">
+		<Unit filename="/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/main.cpp">
 			<Option target="MediatorCharRoom"/>
 		</Unit>
-		<Unit filename="/Users/nanni/Documents/DesignPattern/MediatorCharRoom/CMakeLists.txt">
+		<Unit filename="/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

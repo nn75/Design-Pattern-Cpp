@@ -11,7 +11,7 @@
 #include "ChatRoom.h"
 
 
-//class ChatRoom;
+class ChatRoom;
 
 class Person {
 public:

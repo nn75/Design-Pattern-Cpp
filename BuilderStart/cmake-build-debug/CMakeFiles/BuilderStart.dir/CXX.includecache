@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nanni/Documents/Design-Pattern-Cpp/BuilderStart/main.cpp
+iostream
+-
+vector
+-
+sstream
+-
+

@@ -1,0 +1,3 @@
+/Users/nanni/Documents/Design-Pattern-Cpp/BuilderStart/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nanni/Documents/Design-Pattern-Cpp/BuilderStart/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nanni/Documents/Design-Pattern-Cpp/BuilderStart/cmake-build-debug/CMakeFiles/BuilderStart.dir

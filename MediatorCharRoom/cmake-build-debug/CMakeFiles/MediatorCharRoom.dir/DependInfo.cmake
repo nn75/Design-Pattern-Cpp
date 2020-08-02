@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/nanni/Documents/DesignPattern/MediatorCharRoom/ChatRoom.cpp" "/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/CMakeFiles/MediatorCharRoom.dir/ChatRoom.cpp.o"
-  "/Users/nanni/Documents/DesignPattern/MediatorCharRoom/Person.cpp" "/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/CMakeFiles/MediatorCharRoom.dir/Person.cpp.o"
-  "/Users/nanni/Documents/DesignPattern/MediatorCharRoom/main.cpp" "/Users/nanni/Documents/DesignPattern/MediatorCharRoom/cmake-build-debug/CMakeFiles/MediatorCharRoom.dir/main.cpp.o"
+  "/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/ChatRoom.cpp" "/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/CMakeFiles/MediatorCharRoom.dir/ChatRoom.cpp.o"
+  "/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/Person.cpp" "/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/CMakeFiles/MediatorCharRoom.dir/Person.cpp.o"
+  "/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/main.cpp" "/Users/nanni/Documents/Design-Pattern-Cpp/MediatorCharRoom/cmake-build-debug/CMakeFiles/MediatorCharRoom.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
