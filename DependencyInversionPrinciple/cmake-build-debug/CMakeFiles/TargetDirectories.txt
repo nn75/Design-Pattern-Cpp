@@ -1,0 +1,3 @@
+/Users/nanni/Documents/DesignPattern/DependencyInversionPrinciple/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nanni/Documents/DesignPattern/DependencyInversionPrinciple/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nanni/Documents/DesignPattern/DependencyInversionPrinciple/cmake-build-debug/CMakeFiles/DependencyInversionPrinciple.dir

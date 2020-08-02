@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nanni/Documents/DesignPattern/DependencyInversionPrinciple/main.cpp
+iostream
+-
+vector
+-
+tuple
+-
+

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SingleResponsibilityPrinciple"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\Boost-1.72.0\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\boost_headers-1.72.0\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\boost_system-1.72.0\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\boost_filesystem-1.72.0\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SingleResponsibilityPrinciple">
+				<Option output="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug/SingleResponsibilityPrinciple" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug/Makefile&quot;  VERBOSE=1 SingleResponsibilityPrinciple"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SingleResponsibilityPrinciple/fast">
+				<Option output="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug/SingleResponsibilityPrinciple" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug/Makefile&quot;  VERBOSE=1 SingleResponsibilityPrinciple/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/main.cpp">
+			<Option target="SingleResponsibilityPrinciple"/>
+		</Unit>
+		<Unit filename="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/../../../../../usr/local/lib/cmake/BoostDetectToolset-1.72.0.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\"/>
+		</Unit>
+		<Unit filename="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/../../../../../usr/local/lib/cmake/Boost-1.72.0/BoostConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\Boost-1.72.0\"/>
+		</Unit>
+		<Unit filename="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/../../../../../usr/local/lib/cmake/Boost-1.72.0/BoostConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\Boost-1.72.0\"/>
+		</Unit>
+		<Unit filename="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/../../../../../usr/local/lib/cmake/boost_headers-1.72.0/boost_headers-config-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\boost_headers-1.72.0\"/>
+		</Unit>
+		<Unit filename="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/../../../../../usr/local/lib/cmake/boost_headers-1.72.0/boost_headers-config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\boost_headers-1.72.0\"/>
+		</Unit>
+		<Unit filename="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/../../../../../usr/local/lib/cmake/boost_system-1.72.0/boost_system-config-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\boost_system-1.72.0\"/>
+		</Unit>
+		<Unit filename="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/../../../../../usr/local/lib/cmake/boost_system-1.72.0/boost_system-config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\boost_system-1.72.0\"/>
+		</Unit>
+		<Unit filename="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/../../../../../usr/local/lib/cmake/boost_system-1.72.0/libboost_system-variant-mt-shared.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\boost_system-1.72.0\"/>
+		</Unit>
+		<Unit filename="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/../../../../../usr/local/lib/cmake/boost_system-1.72.0/libboost_system-variant-mt-static.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\boost_system-1.72.0\"/>
+		</Unit>
+		<Unit filename="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/../../../../../usr/local/lib/cmake/boost_system-1.72.0/libboost_system-variant-shared.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\boost_system-1.72.0\"/>
+		</Unit>
+		<Unit filename="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/../../../../../usr/local/lib/cmake/boost_system-1.72.0/libboost_system-variant-static.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\boost_system-1.72.0\"/>
+		</Unit>
+		<Unit filename="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/../../../../../usr/local/lib/cmake/boost_filesystem-1.72.0/boost_filesystem-config-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\boost_filesystem-1.72.0\"/>
+		</Unit>
+		<Unit filename="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/../../../../../usr/local/lib/cmake/boost_filesystem-1.72.0/boost_filesystem-config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\boost_filesystem-1.72.0\"/>
+		</Unit>
+		<Unit filename="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/../../../../../usr/local/lib/cmake/boost_filesystem-1.72.0/libboost_filesystem-variant-mt-shared.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\boost_filesystem-1.72.0\"/>
+		</Unit>
+		<Unit filename="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/../../../../../usr/local/lib/cmake/boost_filesystem-1.72.0/libboost_filesystem-variant-mt-static.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\boost_filesystem-1.72.0\"/>
+		</Unit>
+		<Unit filename="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/../../../../../usr/local/lib/cmake/boost_filesystem-1.72.0/libboost_filesystem-variant-shared.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\boost_filesystem-1.72.0\"/>
+		</Unit>
+		<Unit filename="/Users/nanni/Documents/DesignPattern/SingleResponsibilityPrinciple/../../../../../usr/local/lib/cmake/boost_filesystem-1.72.0/libboost_filesystem-variant-static.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\boost_filesystem-1.72.0\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
